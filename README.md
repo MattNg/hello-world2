@@ -1,2 +1,3 @@
 # hello-world2
-go through the tutorial
+go through another tutorial
+life
